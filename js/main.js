@@ -15,6 +15,10 @@ var dataListaChats = [
 ];
 
 
+
+
+
+
 //Parte visual
 var liListItem = null;
 
